@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-12T15:23:40 ADT" name="Default suite" finished-at="2024-09-12T15:28:34 ADT" duration-ms="293322">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T15:23:40 ADT" name="Default test" finished-at="2024-09-12T15:28:34 ADT" duration-ms="293322">
+      <class name="test.search">
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:23:40 ADT" name="initiateelement" finished-at="2024-09-12T15:23:45 ADT" duration-ms="4762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="sotin()[pri:1, instance:test.search@5876a9af]" started-at="2024-09-12T15:23:45 ADT" name="sotin" finished-at="2024-09-12T15:23:57 ADT" duration-ms="11508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sotin -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:23:57 ADT" name="closebrowser" finished-at="2024-09-12T15:23:57 ADT" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:23:57 ADT" name="initiateelement" finished-at="2024-09-12T15:24:00 ADT" duration-ms="3595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="sortfilter()[pri:2, instance:test.search@5876a9af]" started-at="2024-09-12T15:24:00 ADT" name="sortfilter" finished-at="2024-09-12T15:24:10 ADT" duration-ms="9828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortfilter -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:24:10 ADT" name="closebrowser" finished-at="2024-09-12T15:24:11 ADT" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:24:11 ADT" name="initiateelement" finished-at="2024-09-12T15:24:14 ADT" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="assert2()[pri:3, instance:test.search@5876a9af]" started-at="2024-09-12T15:24:14 ADT" name="assert2" finished-at="2024-09-12T15:26:47 ADT" duration-ms="152702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assert2 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:26:47 ADT" name="closebrowser" finished-at="2024-09-12T15:26:48 ADT" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:26:48 ADT" name="initiateelement" finished-at="2024-09-12T15:26:51 ADT" duration-ms="3551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:26:51 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:26:59 ADT" duration-ms="7737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adidas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:26:59 ADT" name="closebrowser" finished-at="2024-09-12T15:26:59 ADT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:26:59 ADT" name="initiateelement" finished-at="2024-09-12T15:27:03 ADT" duration-ms="3841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:03 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:27:16 ADT" duration-ms="12471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adidas shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:16 ADT" name="closebrowser" finished-at="2024-09-12T15:27:16 ADT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:16 ADT" name="initiateelement" finished-at="2024-09-12T15:27:19 ADT" duration-ms="3622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:19 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:27:30 ADT" duration-ms="10434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B0BZ5RMXFH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:30 ADT" name="closebrowser" finished-at="2024-09-12T15:27:30 ADT" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:30 ADT" name="initiateelement" finished-at="2024-09-12T15:27:34 ADT" duration-ms="3909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:34 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:27:51 ADT" duration-ms="16740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:51 ADT" name="closebrowser" finished-at="2024-09-12T15:27:51 ADT" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:51 ADT" name="initiateelement" finished-at="2024-09-12T15:27:55 ADT" duration-ms="3699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:27:55 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:28:06 ADT" duration-ms="10680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:06 ADT" name="closebrowser" finished-at="2024-09-12T15:28:06 ADT" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:06 ADT" name="initiateelement" finished-at="2024-09-12T15:28:10 ADT" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="searchbox(java.lang.String)[pri:4, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:10 ADT" name="searchbox" data-provider="Details3" finished-at="2024-09-12T15:28:18 ADT" duration-ms="7578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shoe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:18 ADT" name="closebrowser" finished-at="2024-09-12T15:28:18 ADT" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="initiateelement()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:18 ADT" name="initiateelement" finished-at="2024-09-12T15:28:22 ADT" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateelement -->
+        <test-method signature="partialitem()[pri:5, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:22 ADT" name="partialitem" finished-at="2024-09-12T15:28:33 ADT" duration-ms="11087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialitem -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.search@5876a9af]" started-at="2024-09-12T15:28:33 ADT" name="closebrowser" finished-at="2024-09-12T15:28:34 ADT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
